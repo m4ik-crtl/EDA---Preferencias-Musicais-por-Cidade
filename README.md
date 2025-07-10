@@ -1,4 +1,4 @@
-# 🎵 Sprint 2: Preferências Musicais por Cidade
+# 🎵 Preferências Musicais por Cidade
 
 ## 📝 Descrição
 Nesta sprint, analisamos o comportamento de usuários de um serviço de streaming musical nas cidades de Springfield e Shelbyville. O foco foi explorar os dados, limpá-los e testar uma hipótese sobre o comportamento de escuta em diferentes dias da semana.
